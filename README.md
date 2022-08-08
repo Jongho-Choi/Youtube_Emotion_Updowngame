@@ -1,5 +1,8 @@
 # Youtube_Emotion_Updowngame
 
+### 0. Presentation
+- PDF 파일을 참고해 주세요.
+
 ### 1. Project background
 - 기존에 존재하던 구글 검색량 UpDown 게임을 이용한 게임입니다.
 - 일반적으로 Computer Vision을 이용한 컨텐츠들은 많이 알려져있지만 ( AI 사진 합성 사이트, 자동채색 사이트 등) NLP를 이용한 컨텐츠는 보기 힘듭니다.
